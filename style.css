@@ -1,0 +1,7 @@
+/* style.css */
+body {
+    background-image: url('./imgs/qw.jpg'); /* 替换 'path/to/your/background-image.jpg' 为你的背景图路径 */
+    background-size: cover; /* 背景图尺寸，可以根据需要进行调整 */
+    background-repeat: no-repeat; /* 防止背景图重复 */
+    background-attachment: fixed; /* 固定背景图，使其不滚动 */
+}
